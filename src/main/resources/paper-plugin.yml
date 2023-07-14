@@ -1,0 +1,7 @@
+name: template
+version: '${version}'
+main: ovh.rubiks.template.Template
+api-version: '1.20'
+prefix: [Template]
+authors: [Mathis Verleene]
+description: Template plugin
